@@ -1,5 +1,10 @@
 # Bilal Store — PHP E-commerce + Admin Panel
 
+![PHP](https://img.shields.io/badge/PHP-7.4%2B-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-4479A1?logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 A small e-commerce site with a public storefront and a self-contained admin
 panel, written in plain PHP 7.4+ on top of MySQL. No Composer, no framework,
 no JS build step. Drop the folder into `htdocs`, run the installer, and you
