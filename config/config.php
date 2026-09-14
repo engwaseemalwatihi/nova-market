@@ -5,11 +5,11 @@
  */
 
 // ----- Database -----
-define('DB_HOST', '127.0.0.1');
+define('DB_HOST', 'sql204.infinityfree.com');
 define('DB_PORT', '3306');
-define('DB_NAME', 'php_admin_panel');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_NAME', 'if0_42867008_nova_market');
+define('DB_USER', 'if0_42867008');
+define('DB_PASS', 'NiaalAdelAli77');
 define('DB_CHARSET', 'utf8mb4');
 
 // ----- App -----

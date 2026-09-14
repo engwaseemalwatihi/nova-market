@@ -3,12 +3,6 @@
 --  Run this once in phpMyAdmin or via the MySQL CLI.
 -- =======================================================
 
-CREATE DATABASE IF NOT EXISTS `php_admin_panel`
-  DEFAULT CHARACTER SET utf8mb4
-  COLLATE utf8mb4_unicode_ci;
-
-USE `php_admin_panel`;
-
 -- ---------------------------------------------------------
 -- Users
 -- ---------------------------------------------------------
